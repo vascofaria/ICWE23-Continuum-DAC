@@ -20,8 +20,8 @@ const config = {
   },
 
 //TODO: if it's required
-topicSender:"ShoppingCenterSend",
-topicReceivers:"ShoppingCenterReceivers"
+topicSender:"ShoppingCenterSendFaria",
+topicReceivers:"ShoppingCenterReceiversFaria"
 
 
 
